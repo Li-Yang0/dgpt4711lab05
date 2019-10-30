@@ -13,7 +13,7 @@
  */
 class Places {
     //put your code here
-    protected $origin = WRITEPATH . '/data/xxx/Place.csv';
+    protected $origin = WRITEPATH . '/data/Place.csv';
     protected $keyField = 'id';
     protected $validationRles = [];
 }
